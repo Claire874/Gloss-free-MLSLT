@@ -13,6 +13,8 @@ We propose a multilingual gloss-free model with dual CTC objectives for token-le
 ## How to start?
 
 **Feature Extractor**
+
+
 Please follow the intructions of [SlowFastSign](https://github.com/kaistmm/SlowFastSign) to extract sign features.
 
 
