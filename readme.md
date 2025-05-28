@@ -22,4 +22,8 @@ You can get the checkpoints of our gloss-free One-to-one SLT model from [HERE](h
 
 ## Citation 
 
-If you get any inspriation from this paper, please consider to cite it!
+If you find our work useful for your research, please cite our work with the following bibtex:
+
+```bibtex
+
+```
