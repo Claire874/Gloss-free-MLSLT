@@ -14,7 +14,7 @@ We propose a multilingual gloss-free model with dual CTC objectives for token-le
 
 **Feature Extractor**
 
-Please follow the intructions of [SlowFastSign](https://github.com/kaistmm/SlowFastSign) to extract sign features (Please note we don't use Gloss, instead use spoken text as supervision.).
+Please follow the intructions of [SlowFastSign](https://github.com/kaistmm/SlowFastSign) to extract sign features (Please note we **don't** use Gloss, instead use spoken text as supervision.).
 
 You can get the checkpoints of Our gloss-free One-to-one SLT model from [HERE](https://drive.google.com/drive/folders/1vx2eNHVaZKCCqxbIxTXdcYA9q7ljSyMP?usp=sharing)
 
