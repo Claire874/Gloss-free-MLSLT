@@ -25,5 +25,12 @@ You can get the checkpoints of our gloss-free One-to-one SLT model from [HERE](h
 If you find our work useful for your research, please cite our work with the following bibtex:
 
 ```bibtex
-
+@inproceedings{tan-etal-2025-mlslt,
+    title = "Multilingual Gloss-free Sign Language Translation: Towards Building a Sign Language Foundation Model",
+    author = "Tan, Sihan and Miyazaki, Taro and Kazuhiro, Nakadai",
+    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+}
 ```
