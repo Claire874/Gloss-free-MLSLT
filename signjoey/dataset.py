@@ -125,7 +125,7 @@ class SignTranslationDataset(data.Dataset):
                     samples[seq_id] = {
                         "name": tmp[s]["fileid"],
                         "signer": tmp[s]["signer"],
-                        "gloss": gloss,
+                        "gloss": text,
                         "text": text,
                         "sign": new_sgn_slowfast,
                         #"sign": s["sign"],
